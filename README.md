@@ -58,16 +58,18 @@ https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-d
 
 ## Task 5: 
 Have a look at the file in the folder named "TaskFive". 
-5.a solve the problem presented in MethodOne
-5.b solve the problem presented in MethodTwo
+5.a solve the problem presented in MethodOne.
+5.b solve the problem presented in MethodTwo.
 
 ## Task 6: 
-multiple conditionals exercise!! 
-multiple operators, one of each: == != < > >= <= && || 
-if - else if - else  -- exercise
+6.a make 2 integer variables named a and b. Print "Success!" if either of them is equal to 10 or if the sum is. If not, print "Failure!".
+6.b make 3 integer variables named x, y and z. Print "Success!" if their sum is 30, but none of them may have the value of 10, 20 or 30. Otherwise print "Failure!".
+
 
 ## Task 7: 
-loops exercise! 
-
+7.a create an integer called input and assign it a value. use a loop to print the value and all values from there, until it reaches 0, with the following exceptions: 
+    - if the number is 6, instead print the string "six".
+    - Once the number is half of the input value, print "HALF!"
+    
 # Husk at push'e ændringerne til jeres Github Repository og linke til det under afleveringen på moodle. 
 
