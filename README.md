@@ -37,14 +37,14 @@ https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-d
 ## Task 2: 
 2.a store your name in a variable and print it.
 2.b store your age in a varible and print it.
-2.c store whether or not you are happy right now, as a boolean (true for happy, false for sad).
+2.c store whether or not you are happy right now, as a boolean (true for happy, false for sad). 
 2.d using the above variables print the following message:
     "Hi, my name is <name>"
     "I am <age> years old"
     "I <don't> clap my hands"
                                 
     where the <> refers to variables.
-    the last variable (<don't>) is only to be printed if the happy boolean
+    the last variable (<don't>) is only to be printed if the happy boolean is false
                                 
 ## Task 3:
 3.a Draw a traffic light using colors stored in variables - one for each of the 4 colors (background is the 4th).
@@ -70,6 +70,7 @@ Have a look at the file in the folder named "TaskFive".
 7.a create an integer called input and assign it a value of 20. use a loop to print the value and all values from there, until it reaches 0, with the following exceptions: 
     - if the number is 6, instead print the string "six".
     - Once the number is half of the input value, print "HALF!"
+7.b Run exercise 7.a again with a different input value and make sure it still works. You should also consider if it will work with a negative input, e.g. -20.
     
 # Husk at push'e ændringerne til jeres Github Repository og linke til det under afleveringen på moodle. 
 
