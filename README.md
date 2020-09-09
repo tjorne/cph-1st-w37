@@ -6,12 +6,14 @@ Velkommen til den første torsdag med exercises.
 
 Der vil være tutorer tilstede for, at hjælpe jer såfremt I har behov for dette. 
 
-Enkelte af øvelserne skal uploades til Moodle senest kl 23:59. 
+Øvelserne skal uploades til Moodle senest kl 23:59. 
 Det vil foregå ved at I uploader et link til jeres eget github repository, hvor I lægger jeres øvelser i. 
 
-Det betyder altså, at hvis I ikke allerede har et, skal I starte med at lave et github repository. Der er sat tid af denne første øvelsesgang til at gøre dette. 
+Det betyder altså, at hvis I ikke allerede har et, skal I starte med at lave et github repository. Der er sat tid af denne første øvelsesgang til at gøre dette (se Task 1). 
 
 Det forventes at alle opgaver laves i Processing. 
+
+Alle opgaverne skal laves individuelt, men I opfordres til at hjælpe hinanden.
 
 For hver af øvelserne (Task 1 undtaget), skal du lave en ny sketch i processing og gemme den med navnet "Task" efterfulgt af tallet på opgaven skrevet med bogstaver, i.e. "TaskTwo".
 
