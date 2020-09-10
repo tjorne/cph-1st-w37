@@ -41,12 +41,12 @@ https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-d
 - 2.b store your age in a varible and print it.
 - 2.c store whether or not you are happy right now, as a boolean (true for happy, false for sad). 
 - 2.d using the above variables print the following message:
-    "Hi, my name is <name>" <br />
-    "I am <age> years old" <br />
-    "I <dont> clap my hands" <br />
+    "Hi, my name is \<name\>" <br />
+    "I am \<age\> years old" <br />
+    "I \<dont\> clap my hands" <br />
                                 <br />
-    where the <> refers to variables. <br />
-    the last variable (<dont>) is only to be printed if the happy boolean is false <br />
+    where the \<\> refers to variables. <br />
+    the last variable (\<dont\>) is only to be printed if the happy boolean is false <br />
                                 
 ## Task 3:
 - 3.a Draw a traffic light using colors stored in variables - one for each of the 4 colors (background is the 4th).
