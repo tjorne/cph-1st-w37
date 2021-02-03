@@ -51,7 +51,7 @@ https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-d
 ## Task 3:
 - 3.a Draw a traffic light using colors stored in variables - one for each of the 4 colors (background is the 4th).
 - 3.b add a gray color for the turned off effect
-- 3.c have the light turn on/off (green or red) by pressing keys on the keyboard.
+- 3.c have the light turn on/off (green or red) automatically.
                                                                                       
 ## Task 4: 
 - 4.a print out numbers from 0 to 20 using a for loop.
